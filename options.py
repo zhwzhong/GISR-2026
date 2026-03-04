@@ -66,7 +66,7 @@ parser.add_argument('--patch_size', type=int, default=256) # LR Patch
 parser.add_argument('--val_batch_size', type=int, default=1)
 
 parser.add_argument('--in_channels', type=int, default=3)
-parser.add_argument('--model_name', type=str, default='Net')
+parser.add_argument('--model_name', type=str, default='Base3')
 parser.add_argument('--test_name', type=str, default='test')
 
 parser.add_argument('--check_history', type=int, default=10)
