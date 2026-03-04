@@ -2,7 +2,7 @@
 
 ## Environment
 
-The project is implemented using **PyTorch (>= 1.10)**.
+The project is implemented using **PyTorch (>= 2.10)**.
 
 We recommend creating the environment using the provided `environment.yaml` file.
 
